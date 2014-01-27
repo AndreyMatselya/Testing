@@ -1,0 +1,10 @@
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Testing.exe.config
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Testing.exe
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Testing.pdb
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Moq.dll
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\nunit.framework.dll
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\Moq.xml
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\bin\Debug\nunit.framework.xml
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.exe
+c:\users\killerok\documents\visual studio 2012\Projects\Testing\Testing\obj\Debug\Testing.pdb
